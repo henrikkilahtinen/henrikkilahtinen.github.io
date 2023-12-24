@@ -8,9 +8,9 @@ version: 2
 # Personal info
 name: Henrikki Lahtinen
 title: System Specialist/IT enthusiast
-email: Your email (optional)
+email: henrikki@henrikkilahtinen.fi
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone:
 # phone_title: Phone (Phone title override)
 website: https://henrikkilahtinen.github.io
 # website_title: Web (Website title override)
@@ -19,25 +19,25 @@ website: https://henrikkilahtinen.github.io
 darkmode: true
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+twitter_username:
+github_username: henrikkilahtinen
+stackoverflow_username:
+dribbble_username:
+facebook_username:
+flickr_username:
+instagram_username:
+linkedin_username: henrikki-lahtinen-70735483
+xing_username:
+pinterest_username:
+youtube_username:
+orcid_username:
+googlescholar_username:
 
 # Additional icon links
 additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+- title: 
+  icon:
+  url:
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
