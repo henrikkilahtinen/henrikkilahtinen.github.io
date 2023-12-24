@@ -64,7 +64,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: center
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Project name
@@ -84,7 +84,7 @@ content:
   - title: Current job
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Avaus Oy
         sub_title: System Specialist/Sr. System Specialist
         caption: 6/2014 - present
@@ -96,7 +96,7 @@ content:
   - title: Work History
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Menestystarinat Oy
         sub_title: Web Developer
         caption: 1/2012 - 12/2013
@@ -108,7 +108,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: left
         title: Haaga-Helia University of Applied Sciences
         sub_title: Bachelor of Business Administration (Information Technology)
         caption: 2007-2010
