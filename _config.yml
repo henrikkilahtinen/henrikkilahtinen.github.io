@@ -54,11 +54,11 @@ about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Hi! I'm Henrikki Lahtinen, IT professional and AI enthusiast from Helsinki, Finland.
 
+  Currently I work as a Marketing Automation Specialist for <a href="https://www.avaus.com/" target="_blank">Avaus</a>.
 
-  Currently I work as a Sr. System Specialist for <a href="https://www.avaus.com/" target="_blank">Avaus</a>.
+  I have almost ten years of experience as a Adobe Campaign expert, and even more with web technologies such as HTML/CSS/JavaScript/SQL. Latelty I have taken on Python.
   
-
-  I have a passion for generative AI technologies from chatGPT to local LLMs.
+  I would like to learn more about Data Engineering/Cloud Engineering. I have a passion for generative AI technologies from chatGPT to local LLMs.
 
 content:
   - title: Projects # Title for the section
@@ -85,14 +85,24 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Avaus
+        sub_title: System Specialist/Sr. System Specialist
+        caption: 6/2014 - present
+        link: https://avaus.com
         quote: >
-          Short description of the company (optional)
+        
         description: | # this will include new lines to allow paragraphs
-          Description of role
+        I have worked in client teams as a Marketing Automation Specialist, mainly with Adobe Campaign. My role includes technological duties associated with implementing and operating a Marketing Automation System such as design, planning, management, maintenance as well as supporting the client 
+    content:
+      - layout: right
+        title: Menestystarinat Oy
+        sub_title: Web Developer
+        caption: 1/2012 - 12/2013
+        link: 
+        quote: >
+
+        description: | # this will include new lines to allow paragraphs
+          I created websites for businesses with Joomla! and WordPress. I also did SEO.
   - title: Education
     layout: list
     content:
