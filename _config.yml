@@ -52,13 +52,11 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Hi! I'm Henrikki Lahtinen, IT professional and AI enthusiast from Helsinki, Finland.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  Currently I work as an Sr. System Specialist for <a href="https://www.avaus.com/" target="_blank">Avaus</a>.
+
+  I have a passion for generative AI technologies from chatGPT to local LLMs.
 
 content:
   - title: Projects # Title for the section
