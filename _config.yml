@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Henrikki Lahtinen
-title: System Specialist/IT enthusiast
+title: System Specialist/AI enthusiast
 email: henrikki@henrikkilahtinen.fi
 # email_title: Email (Email title override)
 phone:
@@ -36,7 +36,7 @@ googlescholar_username:
 # Additional icon links
 additional_links:
 - title: Home page
-  icon: fab fa-globe
+  icon: fas fa-globe
   url: https://henrikkilahtinen.fi
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
