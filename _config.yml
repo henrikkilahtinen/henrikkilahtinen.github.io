@@ -85,7 +85,7 @@ content:
     layout: list
     content:
       - layout: right
-        title: Avaus
+        title: Avaus Oy
         sub_title: System Specialist/Sr. System Specialist
         caption: 6/2014 - present
         link: https://avaus.com
@@ -93,6 +93,16 @@ content:
         
         description: | # this will include new lines to allow paragraphs
          I work in client teams as a Marketing Automation Specialist, mainly with Adobe Campaign. My role includes technological duties associated with implementing and operating a Marketing Automation System such as design, planning, development, management, maintenance as well as supporting the client. 
+    content:
+      - layout: right
+        title: Menestystarinat Oy
+        sub_title: Web Developer
+        caption: 1/2012 - 12/2013
+        link:
+        quote: >
+        
+        description: | # this will include new lines to allow paragraphs
+         I created websites for businesses with Joomla! and WordPress. I learned a lot about web technologies such as HTML/CSS/PHP and some SQL. I also did SEO. 
   - title: Education
     layout: list
     content:
