@@ -93,14 +93,6 @@ content:
         
         description: | # this will include new lines to allow paragraphs
          I work in client teams as a Marketing Automation Specialist, mainly with Adobe Campaign. My role includes technological duties associated with implementing and operating a Marketing Automation System such as design, planning, development, management, maintenance as well as supporting the client.
-  - content:
-     - layout: left
-       title: TEST
-       sub_title:
-       caption:
-       link:
-       quote:
-       description:
       
   - title: Work History
     layout: list
