@@ -81,7 +81,7 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: Current job
+  - title: Work Experience
     layout: list
     content:
       - layout: left
@@ -93,10 +93,7 @@ content:
         
         description: | # this will include new lines to allow paragraphs
          I work in client teams as a Marketing Automation Specialist, mainly with Adobe Campaign. My role includes technological duties associated with implementing and operating a Marketing Automation System such as design, planning, development, management, maintenance as well as supporting the client.
-      
-  - title: Work History
-    layout: list
-    content:
+         
       - layout: left
         title: Menestystarinat Oy
         sub_title: Web Developer
@@ -106,6 +103,7 @@ content:
         
         description: | # this will include new lines to allow paragraphs
          I created websites for businesses with Joomla! and WordPress. I learned alot about web technologies such as HTML/CSS/PHP and some SQL. I also did SEO.
+         
   - title: Education
     layout: list
     content:
@@ -117,6 +115,7 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           Major in Software Development
+          
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
