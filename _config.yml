@@ -109,7 +109,19 @@ content:
         
         description: | # this will include new lines to allow paragraphs
          I created websites for businesses with Joomla! and WordPress. I learned a lot about web technologies such as HTML/CSS/PHP and some SQL. I also did SEO.
-         
+      
+      - layout: left
+        title: Connexor Oy
+        sub_title: Apprenticeship
+        caption: 1/2010 - 10/2010
+        link:
+        quote: >
+        
+        description: | # this will include new lines to allow paragraphs
+         I did my Apprenticeship for my studies at Connexor. Connexor is a software company with expertise on natural language text analysis.  I created a web portal with Joomla! CMS.
+
+         I also did my thesis as a comission for Connexor. The subject of my thesis was data scraping from Social Media (Twitter and Facebook) for brand analysis.
+                  
   - title: Education
     layout: list
     content:
