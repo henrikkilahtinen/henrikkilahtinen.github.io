@@ -54,9 +54,9 @@ about_profile_image: images/cartoon_Henrikki.png
 about_content: | # this will include new lines to allow paragraphs
   Hi! I'm Henrikki Lahtinen, IT professional and AI enthusiast from Helsinki, Finland.
 
-  Currently I work as a Marketing Automation Specialist for <a href="https://www.avaus.com/" target="_blank">Avaus</a>.
+  Currently I work as a Senior Marketing Automation Specialist for <a href="https://www.avaus.com/" target="_blank">Avaus</a>.
 
-  I have almost ten years of experience as a Adobe Campaign expert, and even more with web technologies such as HTML/CSS/JavaScript/SQL. Latelty I have taken on Python.
+  I have almost ten years of experience as an Adobe Campaign expert, and even more with web technologies such as HTML/CSS/JavaScript/SQL. Latelty I have taken on Python.
   
   I would like to learn more about Data Engineering/Cloud Engineering. 
   
@@ -88,13 +88,15 @@ content:
     content:
       - layout: left
         title: Avaus Marketing Innovations Oy
-        sub_title: System Specialist/Sr. System Specialist
+        sub_title: System Specialist/Senior System Specialist
         caption: 6/2014 - present
         link: avaus.com
         quote: >
         
         description: | # this will include new lines to allow paragraphs
-         I work in client teams as a Marketing Automation Specialist, mainly with Adobe Campaign. My role includes technological duties associated with implementing and operating a Marketing Automation System such as design, planning, development, management, maintenance as well as supporting the client.
+         I work in client teams as a Marketing Automation Specialist, mainly with Adobe Campaign Classic. My role includes technological duties associated with implementing and operating a Marketing Automation System such as design, planning, development, management, maintenance as well as supporting the client.
+
+         Adobe Campaign Classic is the . That means that I have acquired many new skills over the years I also have strengthened my skills in JavaScript and SQL (PostgreSQL)
          
       - layout: left
         title: Menestystarinat Oy
