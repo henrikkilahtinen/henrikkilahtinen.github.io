@@ -96,7 +96,9 @@ content:
         description: | # this will include new lines to allow paragraphs
          I work in client teams as a Marketing Automation Specialist, mainly with Adobe Campaign Classic. My role includes technological duties associated with implementing and operating a Marketing Automation System such as design, planning, development, management, maintenance as well as supporting the client.
 
-         Adobe Campaign Classic is the . That means that I have acquired many new skills over the years I also have strengthened my skills in JavaScript and SQL (PostgreSQL)
+         Adobe Campaign Classic is very comprehensive and feature-rich as a Marketing Automation tool. That means that I have acquired many new skills over the years. I have been technical lead on various projects including data model planning, ETL processes, data management, API integrations/API development, WebApp development and Email Content Manager development (based on XML/JavaScript/HTML/CSS). 
+         
+         I also have strengthened my skills in JavaScript and SQL (PostgreSQL)
          
       - layout: left
         title: Menestystarinat Oy
@@ -106,7 +108,7 @@ content:
         quote: >
         
         description: | # this will include new lines to allow paragraphs
-         I created websites for businesses with Joomla! and WordPress. I learned alot about web technologies such as HTML/CSS/PHP and some SQL. I also did SEO.
+         I created websites for businesses with Joomla! and WordPress. I learned a lot about web technologies such as HTML/CSS/PHP and some SQL. I also did SEO.
          
   - title: Education
     layout: list
